@@ -1,0 +1,1 @@
+/home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/guessing_game/target/debug/guessing_game: /home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/guessing_game/src/main.rs
