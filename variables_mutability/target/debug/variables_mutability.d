@@ -1,0 +1,1 @@
+/home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/variables_mutability/target/debug/variables_mutability: /home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/variables_mutability/src/main.rs
