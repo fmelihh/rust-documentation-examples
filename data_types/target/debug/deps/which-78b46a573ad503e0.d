@@ -1,0 +1,10 @@
+/home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/data_types/target/debug/deps/libwhich-78b46a573ad503e0.rmeta: /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/lib.rs /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/checker.rs /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/error.rs /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/finder.rs
+
+/home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/data_types/target/debug/deps/libwhich-78b46a573ad503e0.rlib: /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/lib.rs /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/checker.rs /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/error.rs /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/finder.rs
+
+/home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/data_types/target/debug/deps/which-78b46a573ad503e0.d: /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/lib.rs /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/checker.rs /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/error.rs /home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/finder.rs
+
+/home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/lib.rs:
+/home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/checker.rs:
+/home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/error.rs:
+/home/b2metric-engineer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/which-6.0.0/src/finder.rs:
