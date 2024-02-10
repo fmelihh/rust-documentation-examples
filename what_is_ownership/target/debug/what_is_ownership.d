@@ -1,0 +1,1 @@
+/home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/what_is_ownership/target/debug/what_is_ownership: /home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/what_is_ownership/src/main.rs
