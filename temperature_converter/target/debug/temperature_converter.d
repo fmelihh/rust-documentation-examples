@@ -1,0 +1,1 @@
+/home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/temperature_converter/target/debug/temperature_converter: /home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/temperature_converter/src/main.rs
