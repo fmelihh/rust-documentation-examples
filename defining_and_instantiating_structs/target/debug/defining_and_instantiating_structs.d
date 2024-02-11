@@ -1,0 +1,1 @@
+/home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/defining_and_instantiating_structs/target/debug/defining_and_instantiating_structs: /home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/defining_and_instantiating_structs/src/main.rs
