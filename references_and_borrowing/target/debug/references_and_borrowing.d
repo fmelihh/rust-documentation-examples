@@ -1,0 +1,1 @@
+/home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/references_and_borrowing/target/debug/references_and_borrowing: /home/b2metric-engineer/BoostUpProjects/rust-documentation-examples/references_and_borrowing/src/main.rs
